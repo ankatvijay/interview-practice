@@ -7,7 +7,6 @@ https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage
 https://microsoft.github.io/Git-Credential-Manager-for-Windows/
 
 
-
 ----------
 Resolving Git Credential Manager Pop-Ups
 1

@@ -1,0 +1,16 @@
+[user]
+	name = Vijay Ankat
+	email = dev.ankat.vijay@gmail.com
+	password = p@s$!0n2C0d!nG
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
+	keepBackup = false
+[core]
+	autocrlf = true
+[credential "helperselector"]
+	selected = wincred
+[credential]
+	helper = manager-core
